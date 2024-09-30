@@ -1,1 +1,3 @@
 # Migthy Ducks Hockey League
+
+## The best team in the league is...
